@@ -1,0 +1,14 @@
+2026-05-26 19:16:49,647 ERROR [orbbec.ni.device_streamset] failed to open device: 	Could not open "2bc5/0407@1/9": Failed to set USB interface!
+
+2026-05-26 19:22:37,119 ERROR [orbbec.ni.device_streamset] failed to open device: 	Could not open "2bc5/0407@1/9": Failed to set USB interface!
+
+2026-05-26 19:23:56,879 ERROR [orbbec.ni.device_streamset] failed to open device: 	Could not open "2bc5/0407@1/9": Failed to set USB interface!
+
+2026-05-26 19:38:06,634 ERROR [orbbec.ni.device_streamset] failed to open device: 	Could not open "2bc5/0407@1/9": Failed to set USB interface!
+
+2026-05-29 22:00:48,358 ERROR [orbbec.ni.device_streamset] failed to open device: 	Could not open "2bc5/0407@1/13": Failed to set USB interface!
+
+2026-05-30 00:38:17,620 ERROR [orbbec.ni.device_streamset] failed to open device: 	Could not open "2bc5/0407@1/5": Failed to set USB interface!
+
+2026-05-31 17:59:33,875 ERROR [orbbec.ni.device_streamset] failed to open device: 	Could not open "2bc5/0407@1/5": Failed to set USB interface!
+
